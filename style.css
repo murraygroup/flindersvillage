@@ -1,3 +1,7 @@
+/* Transparent Backgrounds */
+body, .form-container, #iframe-wrap-class, .ewrap {
+    background-color: transparent !important;
+}
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
