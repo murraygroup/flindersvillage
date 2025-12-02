@@ -1,12 +1,21 @@
 
-#crm-lead-form input,
-#crm-lead-form select,
-#crm-lead-form textarea {
+input, select, textarea {
     width: 100% !important;
     padding: 10px !important;
     border-radius: 4px !important;
+    font-size: 16px !important;
 }
-#crm-lead-form button {
-    background-color: #000000 !important;
+
+button {
+    background-color: #007BFF !important;
     color: #fff !important;
+    border: none !important;
+    padding: 12px !important;
+    border-radius: 4px !important;
+    font-size: 18px !important;
+    cursor: pointer !important;
+}
+
+button:hover {
+    background-color: #0056b3 !important;
 }
