@@ -5,14 +5,7 @@
     overflow: hidden !important;
 }
 
-/* Backgrounds */
-body, .form-container, #iframe-wrap-class, .ewrap, .uYj0Sg::before, .uYj0Sg::after, .enquiry-wrap::before, .enquiry-wrap::after {
-    background: none !important;
-    border: none !important;
-    box-shadow: none !important;
-    background-color: transparent !important;
-    background-image: none !important;
-}
+
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
