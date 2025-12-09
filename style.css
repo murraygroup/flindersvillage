@@ -6,8 +6,12 @@ html, body {
 }
 
 /* Backgrounds */
-body, .form-container, #iframe-wrap-class, .ewrap {
+body, .form-container, #iframe-wrap-class, .ewrap .uYj0Sg {
     background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
 }
 
 /* Headings */
