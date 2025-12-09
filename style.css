@@ -1,14 +1,13 @@
-/* Backgrounds */
-body, .form-container, #iframe-wrap-class, .ewrap {
-    background-color: transparent !important;
-    background: none;
-}
-
 /* Removes scrollbars */
 html, body {
     margin: 0;
     padding: 0;
-    overflow: hidden; 
+    overflow: hidden !important;
+}
+
+/* Backgrounds */
+body, .form-container, #iframe-wrap-class, .ewrap {
+    background: none !important;
 }
 
 /* Headings */
