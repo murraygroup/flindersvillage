@@ -1,12 +1,12 @@
 /* Removes scrollbars */
-html, body {
+html, body, .uYj0Sg {
     margin: 0;
     padding: 0;
     overflow: hidden !important;
 }
 
 /* Backgrounds */
-body, .form-container, #iframe-wrap-class, .ewrap .uYj0Sg {
+body, .form-container, #iframe-wrap-class, .ewrap, .uYj0Sg {
     background: none !important;
     border: none !important;
     box-shadow: none !important;
