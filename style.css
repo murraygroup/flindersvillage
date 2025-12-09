@@ -10,8 +10,8 @@ body, .form-container, #iframe-wrap-class, .ewrap, .uYj0Sg {
     background: none !important;
     border: none !important;
     box-shadow: none !important;
-}
-
+    background-color: transparent !important;
+    background-image: none !important;
 }
 
 /* Headings */
