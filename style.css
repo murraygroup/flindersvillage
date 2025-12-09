@@ -6,7 +6,7 @@
 }
 
 /* Backgrounds */
-body, .form-container, #iframe-wrap-class, .ewrap, .uYj0Sg, .enquiry-wrap {
+body, .form-container, #iframe-wrap-class, .ewrap, .uYj0Sg::before, .uYj0Sg::after, .enquiry-wrap::before, .enquiry-wrap::after {
     background: none !important;
     border: none !important;
     box-shadow: none !important;
