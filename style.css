@@ -1,13 +1,16 @@
-/* Removes scrollbars */
+data-mesh-id="comp-mis50oecinlineContent-gridContainer"],
 #comp-mis50oec, .YzqVVZ, .V5AUxf, html, body, .uYj0Sg {
-    margin: 0;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    margin-bottom: 0 !important; /* Remove negative margin */
     padding: 0;
-    overflow: hidden !important;
+    overflow: hidden !important; /* Prevent scrollbars */
 }
 
 
 /* Backgrounds */
-body, .form-container, #iframe-wrap-class, .ewrap, .uYj0Sg::before, .uYj0Sg::after, .enquiry-wrap::before, .enquiry-wrap::after {
+[data-mesh-id="comp-mis50oecinlineContent-gridContainer"], #comp-mis50oec, body, .form-container, #iframe-wrap-class, .ewrap, .uYj0Sg::before, .uYj0Sg::after, .enquiry-wrap::before, .enquiry-wrap::after {
     background: none !important;
     border: none !important;
     box-shadow: none !important;
