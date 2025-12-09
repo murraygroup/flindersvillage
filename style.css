@@ -1,15 +1,10 @@
-iframe, [data-mesh-id="comp-mis50oecinlineContent-gridContainer"], #comp-mis4dt5i, #comp-mis50oec, .YzqVVZ, .V5AUxf, html, body, .uYj0Sg {
-    width: 100% !important;
-    height: 100% !important;
-    max-width: 100% !important;
-    max-width: 100% !important;
-    height: auto !important;
-    margin-bottom: 0 !important; /* Remove negative margin */
-    padding: 0;
-    overflow: hidden !important; /* Prevent scrollbars */
-    position: relative !important; /* Remove absolute positioning */
-    display: block !important;
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden !important; /* page scrollbars gone */
 }
+
 
 
 /* Backgrounds */
