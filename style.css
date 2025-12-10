@@ -13,11 +13,6 @@ html, body {
     background-image: none !important;
 }
 
-#lead_public_form {
-    background-color: rgba(255, 255, 255, 0.95); /* semi-transparent white */
-    opacity: 1 !important; /* ensure full visibility */
-}
-
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Optima', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif !important;
