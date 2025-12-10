@@ -1,13 +1,11 @@
-/* Removes scrollbars */
-#comp-mis50oec, .YzqVVZ, .V5AUxf, html, body, .uYj0Sg {
-    margin: 0;
-    padding: 0;
-    overflow: hidden !important;
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden !important; /* page scrollbars gone */
 }
 
-
 /* Backgrounds */
-body, .form-container, #iframe-wrap-class, .ewrap, .uYj0Sg::before, .uYj0Sg::after, .enquiry-wrap::before, .enquiry-wrap::after {
+[data-mesh-id="comp-mis50oecinlineContent-gridContainer"], #comp-mis50oec, body, .form-container, #iframe-wrap-class, .ewrap, .uYj0Sg::before, .uYj0Sg::after, .enquiry-wrap::before, .enquiry-wrap::after {
     background: none !important;
     border: none !important;
     box-shadow: none !important;
